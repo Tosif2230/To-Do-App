@@ -58,5 +58,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 🐙 <a href="https://github.com/Tosif2230">GitHub</a>
 
 
-
-
+Give a ⭐ if you ❤️ my work
